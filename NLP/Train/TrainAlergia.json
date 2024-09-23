@@ -1,0 +1,11 @@
+[
+    {"text": "Niega alergias", "label": "NO"},
+    {"text": "No alerg","label":"NO"},
+    {"text": "Alergias: negativos","label":"NO"},
+    {"text": "NO ALERGIAS DOCUEMENTADAS","label":"NO"},
+    {"text": "Alerg. niega","label":"NO"},
+    {"text": "Alerg: a", "label": "SI"},
+    {"text": "Tiene alergia", "label": "SI"},
+    {"text": "Alergias: postivo", "label": "SI"},
+    {"text": "si alergias", "label":"SI"}
+]

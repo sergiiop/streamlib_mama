@@ -1,0 +1,12 @@
+[
+    {"text": "No Cancer de mama", "label": "NO"},
+    {"text": "no", "label": "NO"},
+    {"text": "cancer de mama niega", "label": "NO"},
+    {"text": "cancer seno no","label":"NO"},
+    {"text": "ca seno","label":"SI"},
+    {"text": "cancer de mama:","label":"SI"},
+    {"text": "cancer seno","label":"SI"},
+    {"text": "ca de mama","label":"SI"},
+    {"text": "adenoca de mama","label":"SI"},
+    {"text": "mama","label":"SI"}
+]

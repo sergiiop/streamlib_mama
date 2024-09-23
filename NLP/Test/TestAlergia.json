@@ -1,0 +1,8 @@
+[
+    {"text": "No alergica","label":"no"},
+    {"text": "No alerg","label":"no"},
+    {"text": "No. Alergicos","label":"no"},
+    {"text": "Es alergica", "label": "si"},
+    {"text": "Alerg: a ibuprofeno", "label": "si"},
+    {"text": "si tiene alergias", "label":"si"}
+]

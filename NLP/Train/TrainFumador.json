@@ -1,0 +1,11 @@
+[
+    {"text": "No fumadora", "label": "NO"},
+    {"text": "No fumador", "label": "NO"},
+    {"text": "No fuma", "label": "NO"},
+    {"text": "Fuma: No", "label": "NO"},
+    {"text": "Niega Fumar", "label": "NO"},
+    {"text": "Fumadora", "label": "SI"},
+    {"text": "Fumador", "label": "SI"},
+    {"text": "Fuma", "label": "SI"},
+    {"text": "Fuma: Si", "label": "SI"}
+]
